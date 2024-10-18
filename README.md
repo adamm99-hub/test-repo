@@ -7,3 +7,4 @@ Lista zagadnień:
 * Visual Studio Code
 
 * Hello2
+Hello3
