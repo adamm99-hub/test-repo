@@ -1,6 +1,6 @@
-# test-repo
+# PAW-repo
 
-## Moje repo
+## Lab02
 Lista zagadnień:
 * narzędzie git
 * Visual Studio Code
